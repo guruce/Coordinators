@@ -1,0 +1,5 @@
+1. Build the project using maven.
+
+2. Change constants parameters for host, and ports.
+
+3. Run
