@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<coordinatoraddress>
+    <activationaddress>http:localhost:8081/ActivationService?wsdl</activationaddress>
+    <registrationaddress>http://localhost:8083/RegistrationServie?wsdl</registrationaddress>
+    <completionaddress>http://localhost:8082/CompletionService?wsdl</completionaddress>
+</coordinatoraddress>

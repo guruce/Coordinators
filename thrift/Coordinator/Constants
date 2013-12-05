@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<Coordinator>
+    <address>localhost</address>
+    <activationport>9090</activationport>
+    <registrationport>9091</registrationport>
+    <completionport>9092</completionport>
+</Coordinator>
